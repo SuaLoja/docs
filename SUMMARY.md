@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SuaLoja](README.md)
+* [Página inicial](README.md)
 
 ## API
 
