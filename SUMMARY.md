@@ -2,3 +2,7 @@
 
 * [SuaLoja](README.md)
 
+## API
+
+* [Usuários](api/usuarios.md)
+
