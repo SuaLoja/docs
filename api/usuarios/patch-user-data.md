@@ -1,12 +1,12 @@
 # PATCH /users/:id/
 
-{% api-method method="get" host="https://api.sualoja.app" path="/users/:id" %}
+{% api-method method="patch" host="https://api.sualoja.app" path="/users/:id" %}
 {% api-method-summary %}
 Atualizar apenas uma informação
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+Atualizar email ou senha de um usuário.
 {% endapi-method-description %}
 
 {% api-method-spec %}
