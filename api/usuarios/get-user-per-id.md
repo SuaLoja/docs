@@ -27,7 +27,7 @@ API KEY
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Usuário consultado com sucesso.
 {% endapi-method-response-example-description %}
 
 ```
@@ -43,7 +43,7 @@ API KEY
 
 {% api-method-response-example httpCode=404 %}
 {% api-method-response-example-description %}
-
+Usuário não encontrado.
 {% endapi-method-response-example-description %}
 
 ```
