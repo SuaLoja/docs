@@ -8,4 +8,5 @@
   * [GET /users/](api/usuarios/get-users.md)
   * [GET /users/:id](api/usuarios/get-user-per-id.md)
   * [PATCH /users/:id/](api/usuarios/patch-user-data.md)
+  * [DELETE /users/:id](api/usuarios/delete-users-id.md)
 
