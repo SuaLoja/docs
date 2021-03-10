@@ -6,7 +6,7 @@ description: Consultar todos usuários
 
 {% api-method method="get" host="https://api.sualoja.app" path="/users" %}
 {% api-method-summary %}
-
+Consultar todos usuários
 {% endapi-method-summary %}
 
 {% api-method-description %}
