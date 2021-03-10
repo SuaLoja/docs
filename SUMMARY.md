@@ -11,4 +11,5 @@
   * [DELETE /users/:id](api/usuarios/delete-users-id.md)
 * [Autenticação](api/autenticacao/README.md)
   * [POST /auth/signup](api/autenticacao/post-auth-signup.md)
+  * [POST /auth/signin](api/autenticacao/post-auth-signin.md)
 
