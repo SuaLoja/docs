@@ -1,7 +1,3 @@
----
-description: Consultar todos usuários
----
-
 # GET /users/
 
 {% api-method method="get" host="https://api.sualoja.app" path="/users" %}
