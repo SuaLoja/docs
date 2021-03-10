@@ -85,6 +85,20 @@ Usuário consultado com sucesso.
 }
 ```
 {% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Usuário com o ID consultado não encontrado.
+{% endapi-method-response-example-description %}
+
+```
+{
+    "status": 404,
+    "message": "User not found",
+    "error": "Not found"
+}
+```
+{% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
