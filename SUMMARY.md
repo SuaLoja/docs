@@ -6,5 +6,5 @@
 
 * [Usuários](api/usuarios/README.md)
   * [GET /users/](api/usuarios/get-users.md)
-  * [GET /users/:id](api/usuarios/get-users-id.md)
+  * [GET /users/:id](api/usuarios/get-user-per-id.md)
 
